@@ -1,9 +1,8 @@
-My first project using TypeScript. This is Wolt Summer 2023 task. 
+# Delivery Fee Calculator
+### My first project using TypeScript. 
+This is Wolt Summer 2023 assignment https://github.com/woltapp/engineering-summer-intern-2023
 
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
